@@ -35,4 +35,10 @@ From the above the table:
 - The sample mean is the same as the population mean for manufacturing lots one and two.
 - The sample mean is not the same as the population mean for manufacturing lot three. 
 
+## Study Design: MechaCar vs Competition
+---
 
+- For the statistical study, the success metric that will be used is the mile per gallon (mpg) wich quantifies the fuel consumption rate of the vehichle. It is of a major interest as it used in estimitating the cost of driving the vehicle and the measuring the impact on the environment from running it. 
+- The null hypothesis will be if the the MechaCar has the same mpg mean as another manufacturer or not. 
+- The two samples t-test will be used to verify the accuracy of the null hypothesis, because, the analytical question that needs to be asnwered is Is there a statistical difference between the distribution means from two samples?
+- The needed data are the mpg of no more than 50 vehichles that share similar specs as the MechaCar. 
