@@ -19,3 +19,20 @@ From the figure above:
 
 From the above table:
 - the variance doesn't exceed 100 in any of the studied cases, hence, the suspension system meets the design specs. 
+
+## T-Tests on Suspension Coils
+---
+
+|Figure|T-Test Result|
+|------|-------------|
+|![Capture 167](https://user-images.githubusercontent.com/59425631/136700298-ba49ed67-4643-4cd7-aea9-621e101ec59e.PNG)|The P-Value is larger than 0.05 which provide sufficient statistical evidence that the null hypothesis is true and the sample mean is the same as the population mean|
+|![Capture 168](https://user-images.githubusercontent.com/59425631/136700479-e4843142-34cb-41b9-a451-30949766149d.PNG)|The P-Value is larger than 0.05 which provide sufficient statistical evidence that the null hypothesis is true and the sample mean is the same as the population mean|
+|![Capture 169](https://user-images.githubusercontent.com/59425631/136700560-89fc3c26-3b85-48ad-83c3-28a1b8852888.PNG)|The P-Value is larger than 0.05 which provide sufficient statistical evidence that the null hypothesis is true and the sample mean is the same as the population mean|
+|![Capture 170](https://user-images.githubusercontent.com/59425631/136700664-0735a0b0-5ddf-495c-8e2a-9ba87a9b03db.PNG)|The P-Value is larger than 0.05 which provide sufficient statistical evidence that the null hypothesis is false and the sample mean isn't the same as the population mean|
+
+From the above the table: 
+- The sample mean is the same as the population mean for all manufacurting lots.
+- The sample mean is the same as the population mean for manufacturing lots one and two.
+- The sample mean is not the same as the population mean for manufacturing lot three. 
+
+
